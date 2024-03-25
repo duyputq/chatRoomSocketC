@@ -24,4 +24,4 @@ chạy nhiều client trên terminal khác nhau:
 nhập message và message sẽ được gửi qua các client và server 
 
 ## Hình ảnh minh họa
-![Chat Room](/chatroom.png)
+![ChatRoom](https://github.com/duyputq/chatRoomSocketC/assets/100561979/b1366eef-3766-4fad-8378-0a7039bc5616)
