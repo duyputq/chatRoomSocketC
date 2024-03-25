@@ -24,4 +24,4 @@ chạy nhiều client trên terminal khác nhau:
 nhập message và message sẽ được gửi qua các client và server 
 
 ## Hình ảnh minh họa
-![Chat Room](/praticeChatRoom/chatroom.png)
+![Chat Room](/chatroom.png)
